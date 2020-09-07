@@ -1,8 +1,17 @@
 # Hi there! I am Sampada!
 
-I am a sophomore at Brandeis University. I am planning on majoring it from Computer Science and Business.  
+I am a sophomore at Brandeis University. I am planning on majoring it from Computer Science and Business.
+
+## About me!
+I was born and raised in Nepal. I love listening to music and watching kdramas. 
 
 
+## Major related classes
+* COSI 10a
+* COSI 12b
+* BUS 6a
+* BUS10a
+* BUS51a
 
 ## Github stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=pokharelsampada&show_icons=true&include_all_commits=true&count_private=true" alt="Sampada's github stats" />
