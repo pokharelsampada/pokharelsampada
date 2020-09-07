@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there! I am Sampada!
+
+I am a sophomore at Brandeis University. I am planning on majoring it from Computer Science and Business.  
+
+
+
+## Github stats
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=pokharelsampada&show_icons=true&include_all_commits=true&count_private=true" alt="Sampada's github stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokharelsampada&hide=roff" />
 
 <!--
 **pokharelsampada/pokharelsampada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
